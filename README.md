@@ -12,3 +12,10 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 ```
 streamlit run dashboard.py
 ```
+
+## Deployment Link
+please access this link below to check the dashboard
+
+```
+https://dataanalysissubmission-g6g0xea9vw6.streamlit.app/
+```
