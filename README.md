@@ -1,5 +1,6 @@
 # Simple E-commerce Dataset Dahsboard ✨
-
+Dicoding Submission - Belajar Analisis Data dengan Python
+Nama : Abriyan Yusuf
 ## Setup environment
 ```
 conda create --name main-ds python=3.9
