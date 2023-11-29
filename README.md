@@ -1,7 +1,13 @@
-# Welcome to streamlit
+# Simple E-commerce Dataset Dahsboard ✨
 
-This is the app you get when you run `streamlit hello`, extracted as its own app.
+## Setup environment
+```
+conda create --name main-ds python=3.9
+conda activate main-ds
+pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
+```
 
-Edit [Hello.py](./Hello.py) to customize this app to your heart's desire. ❤️
-
-Check it out on [Streamlit Community Cloud](https://st-hello-app.streamlit.app/)
+## Run steamlit app
+```
+streamlit run dashboard.py
+```
