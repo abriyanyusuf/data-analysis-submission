@@ -10,7 +10,7 @@ sns.set(style='dark')
 
 # Load cleaned data
 
-merge_df = pd.read_csv("data/merged_df.csv")
+merge_df = pd.read_csv("merged_df.csv")
 
 
 # Filter data
