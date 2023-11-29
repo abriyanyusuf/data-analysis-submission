@@ -19,3 +19,6 @@ please access this link below to check the dashboard
 ```
 https://dataanalysissubmission-g6g0xea9vw6.streamlit.app/
 ```
+
+## Dashboard Preview
+![dashboard](https://i.snipboard.io/yTHvjY.jpg)

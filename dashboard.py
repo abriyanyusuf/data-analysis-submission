@@ -9,10 +9,9 @@ sns.set(style='dark')
 
 
 # Load cleaned data
-customers = pd.read_csv("data/customers.csv")
+
 merge_df = pd.read_csv("data/merged_df.csv")
-orderItems = pd.read_csv("data/orderItems.csv")
-Top_Order = pd.read_csv("data/Top_Order.csv")
+
 
 # Filter data
 min_date = pd.to_datetime(merge_df["order_purchase_timestamp"].min())  # Convert to datetime
